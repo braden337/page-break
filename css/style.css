@@ -1,5 +1,8 @@
-#p-cool {
-  page-break-after: always;
-  color: #f06;
+p {
   font-family: monospace;
+}
+
+#p-cool {
+  page-break-before: always;
+  color: #f06;
 }
