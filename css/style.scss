@@ -4,6 +4,10 @@
 p {
   font-family: monospace;
   color: limegreen;
+  &:select {
+    color: white;
+    background-color: #0af;
+  }
 }
 
 #p-cool {
