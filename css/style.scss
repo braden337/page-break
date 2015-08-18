@@ -5,10 +5,10 @@ p {
   // font-family: monospace;
   color: limegreen;
   font-size: 1.2em;
-  // &::selection {
-  //   color: white;
-  //   background-color: #f06;
-  // }
+  &::selection {
+    color: white;
+    background-color: #f06;
+  }
 }
 
 #p-cool {
