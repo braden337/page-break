@@ -4,7 +4,7 @@
 p {
   font-family: monospace;
   color: limegreen;
-  &:selection {
+  &::selection {
     color: white;
     background-color: #0af;
   }
